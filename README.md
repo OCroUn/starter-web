@@ -14,3 +14,7 @@ Testing
 
 ## Deployment
 This is simple project
+
+### Copyright
+
+2014 Git.Training.
